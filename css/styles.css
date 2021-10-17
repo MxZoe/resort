@@ -1,0 +1,18 @@
+h1{
+  color: rgb(3, 87, 121);
+  text-align: center;
+}
+
+p{
+  color: aqua;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: rgb(161, 252, 252);
+}
+
+ul{
+  font-size: 20px;
+  line-height: 30px;
+}
